@@ -8,7 +8,7 @@ Designed and deployed a secure Jenkins Controller-Agent architecture on Microsof
 
 
 
-!\[Architecture Diagram](docs/architecture-diagram.png)
+![Architecture Diagram](./docs/architecture-diagram.png)
 
 
 
